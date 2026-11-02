@@ -2,6 +2,9 @@
 
 一个基于 C 语言和 GTK3 的 Linux 系统安装器前端。程序识别物理硬盘并以列表形式展示，选中后把目标盘路径 `/dev/<设备名>` 作为参数传给 shell 脚本执行，实时回显脚本输出，安装完成后弹窗确认重启。
 
+<img width="762" height="514" alt="image" src="https://github.com/user-attachments/assets/75f6eb3c-2ba5-4d2f-9511-51f336d2cbb9" />
+
+
 ## 文件结构
 
 | 文件 | 说明 |
